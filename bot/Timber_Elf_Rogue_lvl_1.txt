@@ -1,0 +1,74 @@
+~~~~~~~~~~~ Timber the Elf Rogue ~~~~~~~~~~~
+
+Level: 1   HP: 18    XP: 0    Hit Dice: 1d6
+STR: 8 (-1.0) 
+DEX: 12 (1.0)
+CON: 12 (1.0)
+INT: 13 (1.5)
+WIS: 16 (3.0)
+CHA: 16 (3.0)
+
+~~~~~~~~~ Skills ~~~~~~~~~
+
+Bluff (CHA)
+Search (INT)
+Sense Motive (WIS)
+Sneak (DEX)
+
+~~~~~~~~~ Traits ~~~~~~~~~
+
+  ~~Ability Score Adjustment~~
+    Your starting Dexterity score increases by 1. (Already Calculated)
+
+  ~~Size~~
+    Medium.
+
+  ~~Speed~~
+    35 Feet
+
+  ~~Low-Light Vision~~
+    You can see in dim light as well as you do in bright light.
+
+  ~~Elf Weapon Training~~
+    You are proficient with the long sword, short sword, shortbow, and longbow.
+
+  ~~Keen Senses~~
+    You have advantage on all Wisdom checks to listen and spot.
+
+  ~~Free Spirit~~
+    You are immune to the charmed condition and to any effect that would put you to sleep.
+
+  ~~Trance~~
+    Elves do not need to sleep. Instead, they meditate deeply for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+
+  ~~Languages~~
+    You can speak, read, and write Common and Elvish, as well as a number of additional languages of your choice equal to your Intelligence modifier, provided it is positive.
+
+  ~~Subrace~~
+    Wood Elf
+
+  ~~Fleet of Foot~~
+    Your speed increases by 5 feet. (Already calculated)
+
+  ~~Mask of the Wild~~
+    You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
+
+  ~~Contact~~
+    You have a contact who acts as your liaison to a network of other spies. You know how to communicate with your contact over great distances (including through the use of magic for quicker communication if you have access to the appropriate spells or items) and typically can exchange information you have gathered for information you seek from your contact.
+
+
+~~~~~~~~~ Specialty: Specialist ~~~~~~~~
+
+   This specialty represents perhaps the broadest range of characters. While others allow their skills to grow organically, you make a point of mastering your skills. As you progress along this path, you have the opportunity to learn more skills and to increase your proficiency with those you have. Think about what environment might have fostered this devotion. Are you a dabbler in many varied skills, or deeply invested in a few key skills? Are you a sage seeking to increase the breadth and depth of your knowledge? Or perhaps you're a charlatan who wants to be able to convincingly adopt many new identities.
+
+    ~~~~ Feats ~~~~
+
+       Level 1: Superior Skill Training (Expert Feat)
+                "You have specialized training and experience that gives you an edge in certain situations."
+
+                Benefit: You gain two skills of your choice. SPECIAL - You can select this feat multiple times, but you must choose two different skills each time.
+
+
+~~~~~~~~~ Background: Spy ~~~~~~~~
+
+  You can learn information that others attempt to keep secret. You collect rumors, whispers, stories, and hard-­‐won evidence. Then you use that knowledge to aid your own endeavors and, when appropriate, to sell to those willing to pay a premium.
