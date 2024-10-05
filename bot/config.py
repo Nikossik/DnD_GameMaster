@@ -1,5 +1,5 @@
-OPENAI_API_KEY= "API"
-BOT_TOKEN = 'BOT_TOKEN'
+OPENAI_API_KEY= ""
+BOT_TOKEN = ""
 
 MASTER_PROMPT = '''
 You are the Dungeon Master in a Dungeons & Dragons 5th Edition game. Your task is to guide the player through an interactive adventure, utilizing the D&D rules. Consider the character they've created with all their attributes, skills, abilities, and equipment.
